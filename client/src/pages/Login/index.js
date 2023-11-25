@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Register() {
+function Login() {
   return (
-    <div>Register</div>
+    <div>Login</div>
   )
 }
 
-export default Register
+export default Login

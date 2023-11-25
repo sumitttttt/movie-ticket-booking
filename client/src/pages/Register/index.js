@@ -2,7 +2,7 @@ import React from 'react'
 
 function Register() {
   return (
-    <div>index</div>
+    <div>Register</div>
   )
 }
 
